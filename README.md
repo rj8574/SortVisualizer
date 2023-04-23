@@ -1,5 +1,4 @@
 # Sorting Visualizer
-## Hi, I'm Ritik Thakur! 👋
 ### This is a simple visualization project made using javascript
 Bubble Sort
 Selection Sort
@@ -7,6 +6,9 @@ Insertion Sort
 Quick Sort
 Merge Sort
 ### Tech Stack
+## 🔗 Links
+[![Check out the website here](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rj8574.github.io/SortVisualizer/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikthakur9/)
 
 **Frontend:** HTML , CSS ,Javascript
 ## Screenshots
