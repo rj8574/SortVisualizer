@@ -5,11 +5,11 @@ Selection Sort
 Insertion Sort
 Quick Sort
 Merge Sort
-### Tech Stack
-## 🔗 Links
-[![Check out the website here](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rj8574.github.io/SortVisualizer/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikthakur9/)
 
+## 🔗 Links
+[![Check out the website here](https://img.shields.io/badge/Project-Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rj8574.github.io/SortVisualizer/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikthakur9/)
+### Tech Stack
 **Frontend:** HTML , CSS ,Javascript
 ## Screenshots
 ![Capture](https://user-images.githubusercontent.com/63467021/233843233-277bb227-0365-4126-9f7e-84dcd310992b.PNG)
