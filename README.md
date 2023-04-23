@@ -1,10 +1,10 @@
 # Sorting Visualizer
 ### This is a simple visualization project made using javascript
--Bubble Sort
--Selection Sort
--Insertion Sort
--Quick Sort
--Merge Sort
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Quick Sort
+- Merge Sort
 
 ## 🔗 Links
 [![Check out the website here](https://img.shields.io/badge/Project-Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rj8574.github.io/SortVisualizer/)
