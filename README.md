@@ -7,7 +7,7 @@
 - Merge Sort
 
 ## 🔗 Links
-[![Check out the website here](https://img.shields.io/badge/Project-Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rj8574.github.io/SortVisualizer/)
+[![Check out the website here](https://img.shields.io/badge/WebSite-Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rj8574.github.io/SortVisualizer/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikthakur9/)
 ### Tech Stack
 **Frontend:** HTML , CSS ,Javascript
